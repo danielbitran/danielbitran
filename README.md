@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danielbitran
 - 👀 I’m interested in Music | Tech
-- 🌱 I’m currently learning Solidity, JS & Python
+- 🌱 I’m currently learning JS & Python.
 - 🎷 I’m looking to collaborate on art/music related projects
 - 📫 How to reach me danielbitran@gmail.com
 
